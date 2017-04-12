@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: insights-web-jeffj924bluemix
+  host: insights-web-jeffj924bluemix
+  disk_quota: 1024M
